@@ -1,0 +1,1 @@
+Context für globale Variablen einführen

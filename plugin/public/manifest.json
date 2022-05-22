@@ -1,0 +1,19 @@
+{
+  "name": "firefoxWebsiteTimer",
+  "description": "Track how much time you waste on Youtube",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/konstantin-garbers/firefoxWebsiteTimer",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "UUID Generator",
+    "default_icon": {
+      "48": "logo48.png",
+      "96": "logo96.png"
+    }
+  },
+  "icons": {
+    "48": "logo48.png",
+    "96": "logo96.png"
+  }
+}
